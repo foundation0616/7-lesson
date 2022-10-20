@@ -1,0 +1,11 @@
+1) O'tgan mavzu bo'yicha savol-javob
+2) Email va Github accaunt yaratish
+3) github'ga o'zimizni project'imizni joylash
+4) .gitignore file'li haqida tushuncha
+
+Javascript
+
+1) Constructive datatypes (array, object)
+2) shart operatori
+3) sikl operatori
+
